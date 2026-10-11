@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-11T22:13:36.975Z",
+  "updated_at": "2026-10-11T22:13:52.906Z",
   "version": "2.0.0",
-  "total": 390,
+  "total": 393,
   "cotes": {
     "2db70262-618f-42e6-a27d-712d6b514a2e": 1321,
     "f06d82b0-1b99-4d71-8a3a-384958962e5d": 500,
@@ -392,6 +392,9 @@
     "éric-emmanuel_schmitt": 20,
     "0306ff2f-8e18-4106-b680-5d3e65ec1edf": 955,
     "pierre_gasly___UR": 955,
-    "pierre_gasly": 955
+    "pierre_gasly": 955,
+    "c6bc1c79-fca8-4c83-847f-910bc1182fa4": 20,
+    "samis___UR": 20,
+    "samis": 20
   }
 }
