@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-11T22:23:18.260Z",
+  "updated_at": "2026-10-11T22:24:06.980Z",
   "version": "2.0.0",
-  "total": 882,
+  "total": 885,
   "cotes": {
     "2db70262-618f-42e6-a27d-712d6b514a2e": 1321,
     "f06d82b0-1b99-4d71-8a3a-384958962e5d": 500,
@@ -884,6 +884,9 @@
     "seshat": 34,
     "2e0ffe0e-68b5-4c48-b4a1-0e867545617d": 7,
     "fédération_nationale_de_la_libre_pensée___R": 7,
-    "fédération_nationale_de_la_libre_pensée": 7
+    "fédération_nationale_de_la_libre_pensée": 7,
+    "161c3390-aece-40fd-b99d-21142cd939d3": 5,
+    "cyr_de_tarse___R": 5,
+    "cyr_de_tarse": 5
   }
 }
