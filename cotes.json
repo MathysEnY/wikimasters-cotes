@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-11T22:22:16.306Z",
+  "updated_at": "2026-10-11T22:22:36.071Z",
   "version": "2.0.0",
-  "total": 864,
+  "total": 867,
   "cotes": {
     "2db70262-618f-42e6-a27d-712d6b514a2e": 1321,
     "f06d82b0-1b99-4d71-8a3a-384958962e5d": 500,
@@ -866,6 +866,9 @@
     "syngonium": 11,
     "8049eef2-ba19-4d12-81b8-78da40e5cf89": 8,
     "níkos_christodoulídis___R": 8,
-    "níkos_christodoulídis": 8
+    "níkos_christodoulídis": 8,
+    "abc074f2-e608-4b73-ab63-21061359b778": 25,
+    "laura_linney___UR": 25,
+    "laura_linney": 25
   }
 }
