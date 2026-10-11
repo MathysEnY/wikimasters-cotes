@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-11T22:20:47.990Z",
+  "updated_at": "2026-10-11T22:21:18.026Z",
   "version": "2.0.0",
-  "total": 840,
+  "total": 846,
   "cotes": {
     "2db70262-618f-42e6-a27d-712d6b514a2e": 1321,
     "f06d82b0-1b99-4d71-8a3a-384958962e5d": 500,
@@ -842,6 +842,12 @@
     "sylvain_luc": 9,
     "220f57bd-e710-4cb5-b177-99d807e7d5fd": 325,
     "mimi_kennedy___R": 325,
-    "mimi_kennedy": 325
+    "mimi_kennedy": 325,
+    "436ece87-ebc5-4aee-84b4-eef97bc12a40": 7,
+    "guillaume_florquin___R": 7,
+    "guillaume_florquin": 7,
+    "c0d7c431-fa70-4918-bee0-c16bd1704e59": 18,
+    "malcesine___R": 18,
+    "malcesine": 18
   }
 }
