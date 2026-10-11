@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-11T22:12:04.221Z",
+  "updated_at": "2026-10-11T22:12:09.991Z",
   "version": "2.0.0",
-  "total": 348,
+  "total": 354,
   "cotes": {
     "2db70262-618f-42e6-a27d-712d6b514a2e": 1321,
     "f06d82b0-1b99-4d71-8a3a-384958962e5d": 500,
@@ -350,6 +350,12 @@
     "inspecteur_d'académie_-_inspecteur_pédagogique_régional": 15,
     "13020397-f979-4de0-9397-dce7e9e1f683": 630,
     "rosalie_vaillancourt___R": 630,
-    "rosalie_vaillancourt": 630
+    "rosalie_vaillancourt": 630,
+    "2c6ce6aa-0459-4d0c-bba6-7e471b22186c": 9,
+    "harry_warner___R": 9,
+    "harry_warner": 9,
+    "a8fd4587-1e1b-41b3-a185-8f33eb3544c8": 11,
+    "kōta_takai___R": 11,
+    "kōta_takai": 11
   }
 }
