@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-11T22:12:17.242Z",
+  "updated_at": "2026-10-11T22:12:55.614Z",
   "version": "2.0.0",
-  "total": 354,
+  "total": 360,
   "cotes": {
     "2db70262-618f-42e6-a27d-712d6b514a2e": 1321,
     "f06d82b0-1b99-4d71-8a3a-384958962e5d": 500,
@@ -356,6 +356,12 @@
     "harry_warner": 9,
     "a8fd4587-1e1b-41b3-a185-8f33eb3544c8": 11,
     "kōta_takai___R": 11,
-    "kōta_takai": 11
+    "kōta_takai": 11,
+    "676b9afc-b630-4c15-bc8c-aa6c2d1e4f60": 28,
+    "romain_gavras___UR": 28,
+    "romain_gavras": 28,
+    "b8feeae6-0160-44d9-8e23-b5fd132edd78": 1064,
+    "isack_hadjar___UR": 1064,
+    "isack_hadjar": 1064
   }
 }
