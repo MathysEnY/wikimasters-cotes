@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-11T22:19:49.745Z",
+  "updated_at": "2026-10-11T22:20:47.990Z",
   "version": "2.0.0",
-  "total": 816,
+  "total": 840,
   "cotes": {
     "2db70262-618f-42e6-a27d-712d6b514a2e": 1321,
     "f06d82b0-1b99-4d71-8a3a-384958962e5d": 500,
@@ -818,6 +818,30 @@
     "le_vrai_coupable_(téléfilm)": 4,
     "cbcc3b09-1f3d-4ec8-95f5-12046673b49a": 22,
     "translation___R": 22,
-    "translation": 22
+    "translation": 22,
+    "b8364729-4b8d-4971-a2cd-e6977a5250ef": 20,
+    "saint-julien-en-champsaur___R": 20,
+    "saint-julien-en-champsaur": 20,
+    "862d1921-e10f-4415-a4b0-23cbf5d97b01": 6,
+    "bande_magnétique___R": 6,
+    "bande_magnétique": 6,
+    "28d9ee7a-8d1a-4c93-834b-aa6cbdfb6937": 34,
+    "diamanda_galás___R": 34,
+    "diamanda_galás": 34,
+    "5c656ab6-d043-48af-afda-767a27cfb9ec": 39,
+    "sauce_au_poivre___R": 39,
+    "sauce_au_poivre": 39,
+    "2fc7e3af-df27-465a-a086-f95d36b5190e": 43,
+    "wonho___R": 43,
+    "wonho": 43,
+    "ee5d79a2-6a8a-4c94-aed3-734cc0f4ba7b": 2,
+    "correspondant_de_guerre___R": 2,
+    "correspondant_de_guerre": 2,
+    "f2bb39e5-ae94-44e8-8752-b3cee65843da": 9,
+    "sylvain_luc___R": 9,
+    "sylvain_luc": 9,
+    "220f57bd-e710-4cb5-b177-99d807e7d5fd": 325,
+    "mimi_kennedy___R": 325,
+    "mimi_kennedy": 325
   }
 }
