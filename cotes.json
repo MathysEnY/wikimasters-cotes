@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-11T22:11:41.335Z",
+  "updated_at": "2026-10-11T22:12:04.221Z",
   "version": "2.0.0",
-  "total": 342,
+  "total": 348,
   "cotes": {
     "2db70262-618f-42e6-a27d-712d6b514a2e": 1321,
     "f06d82b0-1b99-4d71-8a3a-384958962e5d": 500,
@@ -344,6 +344,12 @@
     "lupara_(arme)": 5,
     "47cfd667-3ec3-474e-8dcd-93b10fe8dc3f": 6,
     "eduardo_frei_montalva___R": 6,
-    "eduardo_frei_montalva": 6
+    "eduardo_frei_montalva": 6,
+    "11f14976-75be-4619-9446-6f4bc49d6522": 15,
+    "inspecteur_d'académie_-_inspecteur_pédagogique_régional___R": 15,
+    "inspecteur_d'académie_-_inspecteur_pédagogique_régional": 15,
+    "13020397-f979-4de0-9397-dce7e9e1f683": 630,
+    "rosalie_vaillancourt___R": 630,
+    "rosalie_vaillancourt": 630
   }
 }
