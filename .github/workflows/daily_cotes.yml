@@ -1,0 +1,26 @@
+name: Daily Cotes Update
+
+on:
+  schedule:
+    - cron: '0 3 * * *'
+  workflow_dispatch:
+
+jobs:
+  update-cotes:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - run: node update_cotes.js
+
+      - run: |
+          git config --global user.name "WikiMasters Bot"
+          git config --global user.email "bot@wikimasters.local"
+          git add cotes.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update cotes [skip ci]" && git push)
