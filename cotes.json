@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-11T22:21:18.026Z",
+  "updated_at": "2026-10-11T22:22:16.306Z",
   "version": "2.0.0",
-  "total": 846,
+  "total": 864,
   "cotes": {
     "2db70262-618f-42e6-a27d-712d6b514a2e": 1321,
     "f06d82b0-1b99-4d71-8a3a-384958962e5d": 500,
@@ -848,6 +848,24 @@
     "guillaume_florquin": 7,
     "c0d7c431-fa70-4918-bee0-c16bd1704e59": 18,
     "malcesine___R": 18,
-    "malcesine": 18
+    "malcesine": 18,
+    "6a7e6aaa-a2b8-4157-ac73-eac9eacdab71": 60,
+    "sylvestre_ier___R": 60,
+    "sylvestre_ier": 60,
+    "ca1620b3-762b-477a-acdd-16dce5eb3502": 2,
+    "marquise_goodwin___R": 2,
+    "marquise_goodwin": 2,
+    "51e98f96-b3ed-4792-9ddd-2da434bb698a": 16,
+    "mercedes-benz_classe_glc_(type_254)___R": 16,
+    "mercedes-benz_classe_glc_(type_254)": 16,
+    "831cadbb-b06f-43c7-ab78-34367765a2b0": 17,
+    "les_pilles___R": 17,
+    "les_pilles": 17,
+    "4634c719-420a-475a-9bbc-675db80b5fa4": 11,
+    "syngonium___R": 11,
+    "syngonium": 11,
+    "8049eef2-ba19-4d12-81b8-78da40e5cf89": 8,
+    "níkos_christodoulídis___R": 8,
+    "níkos_christodoulídis": 8
   }
 }
