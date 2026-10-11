@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-11T22:19:27.391Z",
+  "updated_at": "2026-10-11T22:19:49.745Z",
   "version": "2.0.0",
-  "total": 798,
+  "total": 816,
   "cotes": {
     "2db70262-618f-42e6-a27d-712d6b514a2e": 1321,
     "f06d82b0-1b99-4d71-8a3a-384958962e5d": 500,
@@ -800,6 +800,24 @@
     "parti_populaire_sud-tyrolien": 6,
     "de9c4eb8-9c86-4ce1-8aef-d642516098bc": 24,
     "lucien_simon___R": 24,
-    "lucien_simon": 24
+    "lucien_simon": 24,
+    "6e02487e-498a-456a-9166-6dd13af73aa7": 4,
+    "eyes_without_a_face___R": 4,
+    "eyes_without_a_face": 4,
+    "3b8b0fc9-e68e-48c3-b9ad-a252b5fc7f8b": 16,
+    "zoo_de_san_diego___R": 16,
+    "zoo_de_san_diego": 16,
+    "6a0d59bd-c1b1-4086-87ea-df499f2d1e6c": 7,
+    "roger_&_gallet___R": 7,
+    "roger_&_gallet": 7,
+    "1035e78d-6b8b-4aee-9a8f-0b99de40b2c9": 6,
+    "collège_henri-iv_de_la_flèche___R": 6,
+    "collège_henri-iv_de_la_flèche": 6,
+    "7cff2ad0-b50f-435b-88e6-de6cea5b63ec": 4,
+    "le_vrai_coupable_(téléfilm)___R": 4,
+    "le_vrai_coupable_(téléfilm)": 4,
+    "cbcc3b09-1f3d-4ec8-95f5-12046673b49a": 22,
+    "translation___R": 22,
+    "translation": 22
   }
 }
