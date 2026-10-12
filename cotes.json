@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-12T09:54:43.094Z",
+  "updated_at": "2026-10-12T13:00:32.328Z",
   "version": "2.0.0",
-  "total": 909,
+  "total": 912,
   "cotes": {
     "2db70262-618f-42e6-a27d-712d6b514a2e": 1321,
     "f06d82b0-1b99-4d71-8a3a-384958962e5d": 500,
@@ -911,6 +911,9 @@
     "croque-mitaine": 40,
     "66b6f66e-f859-487a-98fc-b7ffbeca641d": 37,
     "wes_borland___SR": 37,
-    "wes_borland": 37
+    "wes_borland": 37,
+    "e98ff2f7-7efe-4d42-a824-2c3018e417c0": 105,
+    "alpaga___SR": 105,
+    "alpaga": 105
   }
 }
