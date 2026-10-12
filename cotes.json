@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-11T22:28:34.083Z",
+  "updated_at": "2026-10-12T07:40:43.523Z",
   "version": "2.0.0",
-  "total": 897,
+  "total": 903,
   "cotes": {
     "2db70262-618f-42e6-a27d-712d6b514a2e": 1321,
     "f06d82b0-1b99-4d71-8a3a-384958962e5d": 500,
@@ -899,6 +899,12 @@
     "château_de_jucoville": 100,
     "083229ef-3c60-4738-be17-b47c67636391": 2,
     "calceolaria_uniflora___C": 2,
-    "calceolaria_uniflora": 2
+    "calceolaria_uniflora": 2,
+    "bfe6fb25-d84a-4dc0-a6b9-4f0c0fd6574b": 4,
+    "maison_loupy___C": 4,
+    "maison_loupy": 4,
+    "8d7f8dec-4529-4791-8f80-22f1a77f04a0": 10,
+    "drugstore_(berlin)___C": 10,
+    "drugstore_(berlin)": 10
   }
 }
