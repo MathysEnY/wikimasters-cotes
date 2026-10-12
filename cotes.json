@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-12T07:40:43.523Z",
+  "updated_at": "2026-10-12T07:49:47.099Z",
   "version": "2.0.0",
-  "total": 903,
+  "total": 909,
   "cotes": {
     "2db70262-618f-42e6-a27d-712d6b514a2e": 1321,
     "f06d82b0-1b99-4d71-8a3a-384958962e5d": 500,
@@ -905,6 +905,12 @@
     "maison_loupy": 4,
     "8d7f8dec-4529-4791-8f80-22f1a77f04a0": 10,
     "drugstore_(berlin)___C": 10,
-    "drugstore_(berlin)": 10
+    "drugstore_(berlin)": 10,
+    "bb660341-f887-46df-8253-bf9d989d65b5": 40,
+    "croque-mitaine___SR": 40,
+    "croque-mitaine": 40,
+    "66b6f66e-f859-487a-98fc-b7ffbeca641d": 37,
+    "wes_borland___SR": 37,
+    "wes_borland": 37
   }
 }
