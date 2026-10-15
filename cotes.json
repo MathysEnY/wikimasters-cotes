@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-15T07:47:32.968Z",
+  "updated_at": "2026-10-15T15:47:32.732Z",
   "version": "2.0.0",
-  "total": 921,
+  "total": 932,
   "cotes": {
     "2db70262-618f-42e6-a27d-712d6b514a2e": 1321,
     "f06d82b0-1b99-4d71-8a3a-384958962e5d": 500,
@@ -923,6 +923,17 @@
     "34522abd-0976-4cff-8f7e-3b6ff22e130d": 11,
     "e86b0fe0-c425-491b-9528-4a47b8f51a93": 2,
     "8d5e64ae-8d0b-4be2-be60-d0c941ebaee6": 11,
-    "6709b5c4-b99a-42e9-b031-2bca4d65d52f": 21
+    "6709b5c4-b99a-42e9-b031-2bca4d65d52f": 21,
+    "20c722ea-5364-476a-b32d-da65b3c9c695": 36667,
+    "tosia_malamud___C": 36667,
+    "tosia_malamud": 36667,
+    "e8691b95-2233-448b-9836-5316cf1ad302": 10294,
+    "lionel_messi___L": 10294,
+    "lionel_messi": 10294,
+    "804c5f1d-769b-4feb-85a1-ac59d6d1a2f8": 586,
+    "yan_diomandé": 586,
+    "2602dc34-ea19-469a-8d3b-51e564b68cb5": 40400,
+    "quadratique___PC": 40400,
+    "quadratique": 40400
   }
 }
