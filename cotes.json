@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-16T15:40:39.619Z",
+  "updated_at": "2026-10-16T16:06:24.325Z",
   "version": "2.0.0",
-  "total": 1589,
+  "total": 1610,
   "cotes": {
     "2db70262-618f-42e6-a27d-712d6b514a2e": 1321,
     "f06d82b0-1b99-4d71-8a3a-384958962e5d": 500,
@@ -1591,6 +1591,27 @@
     "saison_1_de_one_piece": 61,
     "eee1a080-d98f-4bc8-b748-504d7c573507": 11,
     "le_mariage_de_marie_de_bourgogne_avec_maximilien_d'autriche___C": 11,
-    "le_mariage_de_marie_de_bourgogne_avec_maximilien_d'autriche": 11
+    "le_mariage_de_marie_de_bourgogne_avec_maximilien_d'autriche": 11,
+    "130419b2-4c6a-499f-be19-fa15ca0bfebd": 10,
+    "ferrari_formula_one___C": 10,
+    "ferrari_formula_one": 10,
+    "f7affd3d-ea3f-4c4d-917f-888a11e9a721": 278,
+    "gloria_steinem___L": 278,
+    "gloria_steinem": 278,
+    "8201dec8-2d37-4901-b215-ddca53878537": 31,
+    "année_zéro___SR": 31,
+    "année_zéro": 31,
+    "44607781-b4ac-417f-a98b-fe9d387564fa": 10,
+    "ola_abu_alghaib___C": 10,
+    "ola_abu_alghaib": 10,
+    "bd4ff7b6-0e7f-4dc7-a0ff-1908b9b52b93": 44,
+    "vallon_des_auffes___SR": 44,
+    "vallon_des_auffes": 44,
+    "6e632b22-8c2e-4169-a45a-38d1a70a5ed2": 111,
+    "xbox_one___SR": 111,
+    "xbox_one": 111,
+    "28903368-d912-48ca-b093-f2920fda30e5": 2437,
+    "nicolas_sarkozy___L": 2437,
+    "nicolas_sarkozy": 2437
   }
 }
