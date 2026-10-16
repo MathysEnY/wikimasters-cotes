@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-16T15:18:27.646Z",
+  "updated_at": "2026-10-16T15:21:36.965Z",
   "version": "2.0.0",
-  "total": 1191,
+  "total": 1197,
   "cotes": {
     "2db70262-618f-42e6-a27d-712d6b514a2e": 1321,
     "f06d82b0-1b99-4d71-8a3a-384958962e5d": 500,
@@ -1193,6 +1193,12 @@
     "amazon": 817,
     "44cce563-8ee0-48b2-8297-42a221ff11be": 1862,
     "amy_winehouse___L": 1862,
-    "amy_winehouse": 1862
+    "amy_winehouse": 1862,
+    "9214ecef-03fb-43a9-8607-922fbc0d9da8": 10,
+    "santiago_segura___R": 10,
+    "santiago_segura": 10,
+    "52a50729-9623-4248-abdc-01aa92a9d981": 45,
+    "oscar_du_meilleur_acteur___UR": 45,
+    "oscar_du_meilleur_acteur": 45
   }
 }
