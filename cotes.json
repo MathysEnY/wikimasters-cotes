@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-16T14:13:31.684Z",
+  "updated_at": "2026-10-16T14:15:30.475Z",
   "version": "2.0.0",
-  "total": 974,
+  "total": 984,
   "cotes": {
     "2db70262-618f-42e6-a27d-712d6b514a2e": 1321,
     "f06d82b0-1b99-4d71-8a3a-384958962e5d": 500,
@@ -976,6 +976,16 @@
     "constance_(allemagne)": 21,
     "fc073135-bd07-4a08-b0ca-4311861282ac": 97,
     "djihad___SR": 97,
-    "djihad": 97
+    "djihad": 97,
+    "8d11bf11-33f0-472c-8ae7-0e5407e75256": 6,
+    "flagellariaceae___C": 6,
+    "flagellariaceae": 6,
+    "cbe46f89-83e3-4af9-91e2-e1f2d4d8a40e": 43,
+    "i'll_remember___C": 43,
+    "i'll_remember": 43,
+    "54f15ee0-b58c-4458-9e02-ea7b19775409": 6,
+    "springfield_(minnesota)___C": 6,
+    "springfield_(minnesota)": 6,
+    "bfa1a497-9387-40af-9c3c-8fd1c083595c": 3
   }
 }
