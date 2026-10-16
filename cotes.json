@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-16T14:15:32.558Z",
+  "updated_at": "2026-10-16T14:19:07.067Z",
   "version": "2.0.0",
-  "total": 984,
+  "total": 985,
   "cotes": {
     "2db70262-618f-42e6-a27d-712d6b514a2e": 1321,
     "f06d82b0-1b99-4d71-8a3a-384958962e5d": 500,
@@ -986,6 +986,7 @@
     "54f15ee0-b58c-4458-9e02-ea7b19775409": 6,
     "springfield_(minnesota)___C": 6,
     "springfield_(minnesota)": 6,
-    "bfa1a497-9387-40af-9c3c-8fd1c083595c": 3
+    "bfa1a497-9387-40af-9c3c-8fd1c083595c": 3,
+    "32c44172-dce0-43b7-b76f-98cd6c0a0ff2": 5
   }
 }
