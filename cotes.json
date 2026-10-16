@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-16T17:33:36.305Z",
+  "updated_at": "2026-10-16T17:53:56.085Z",
   "version": "2.0.0",
-  "total": 1616,
+  "total": 1637,
   "cotes": {
     "2db70262-618f-42e6-a27d-712d6b514a2e": 1321,
     "f06d82b0-1b99-4d71-8a3a-384958962e5d": 500,
@@ -1618,6 +1618,27 @@
     "tomorrowland_(festival)": 186,
     "5349d3b4-5b99-4aeb-896a-ca8e599e0ecd": 12,
     "kama_sutra,_une_histoire_d'amour___R": 12,
-    "kama_sutra,_une_histoire_d'amour": 12
+    "kama_sutra,_une_histoire_d'amour": 12,
+    "4cd56334-58d4-484e-a64a-68546e222938": 47,
+    "stathis_kouvélakis___SR": 47,
+    "stathis_kouvélakis": 47,
+    "84ed184b-9e52-4aef-b48c-3588cbccb884": 10,
+    "emmanuel_de_belgique___SR": 10,
+    "emmanuel_de_belgique": 10,
+    "2ad13f11-630d-4023-81a8-fedf2da58388": 15,
+    "géographie_de_la_russie___SR": 15,
+    "géographie_de_la_russie": 15,
+    "0ce40e7f-6542-4c53-a55f-85c8829ed0c9": 13,
+    "la_rochette_(ardèche)___PC": 13,
+    "la_rochette_(ardèche)": 13,
+    "5f1dabd2-6725-4a73-913d-42c8b3bd1952": 43,
+    "templeos___SR": 43,
+    "templeos": 43,
+    "f8e51052-23c9-40d7-a4a0-baffffba5ba8": 2,
+    "camille_jedrzejewski___PC": 2,
+    "camille_jedrzejewski": 2,
+    "339eacb2-e73f-4881-a6cf-be7757dec3a4": 14,
+    "goyavier___SR": 14,
+    "goyavier": 14
   }
 }
