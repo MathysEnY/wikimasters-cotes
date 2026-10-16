@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-16T16:06:24.325Z",
+  "updated_at": "2026-10-16T17:33:36.305Z",
   "version": "2.0.0",
-  "total": 1610,
+  "total": 1616,
   "cotes": {
     "2db70262-618f-42e6-a27d-712d6b514a2e": 1321,
     "f06d82b0-1b99-4d71-8a3a-384958962e5d": 500,
@@ -1612,6 +1612,12 @@
     "xbox_one": 111,
     "28903368-d912-48ca-b093-f2920fda30e5": 2437,
     "nicolas_sarkozy___L": 2437,
-    "nicolas_sarkozy": 2437
+    "nicolas_sarkozy": 2437,
+    "2593d1c9-d92d-4e38-9af8-64945ef58675": 186,
+    "tomorrowland_(festival)___SR": 186,
+    "tomorrowland_(festival)": 186,
+    "5349d3b4-5b99-4aeb-896a-ca8e599e0ecd": 12,
+    "kama_sutra,_une_histoire_d'amour___R": 12,
+    "kama_sutra,_une_histoire_d'amour": 12
   }
 }
