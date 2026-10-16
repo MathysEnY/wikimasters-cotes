@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-16T17:56:57.324Z",
+  "updated_at": "2026-10-16T17:57:18.440Z",
   "version": "2.0.0",
-  "total": 1685,
+  "total": 1691,
   "cotes": {
     "2db70262-618f-42e6-a27d-712d6b514a2e": 1321,
     "f06d82b0-1b99-4d71-8a3a-384958962e5d": 500,
@@ -1687,6 +1687,12 @@
     "(16986)_archivestef": 3,
     "77c4d7b8-8f6c-4b63-95a9-1f9e4af2ef16": 5,
     "(17597)_stefanzweig___C": 5,
-    "(17597)_stefanzweig": 5
+    "(17597)_stefanzweig": 5,
+    "f02f1446-5ecc-4995-9025-55182c56f14b": 10,
+    "batara_étoilé___C": 10,
+    "batara_étoilé": 10,
+    "50031bde-723e-45ba-a045-b48ecdb71ced": 1,
+    "satsang___PC": 1,
+    "satsang": 1
   }
 }
