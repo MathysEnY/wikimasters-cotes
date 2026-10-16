@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-16T15:30:09.349Z",
+  "updated_at": "2026-10-16T15:32:11.297Z",
   "version": "2.0.0",
-  "total": 1583,
+  "total": 1589,
   "cotes": {
     "2db70262-618f-42e6-a27d-712d6b514a2e": 1321,
     "f06d82b0-1b99-4d71-8a3a-384958962e5d": 500,
@@ -1585,6 +1585,12 @@
     "l'âme-sœur_(série_télévisée)": 1,
     "a4abd2ab-759c-44b0-977e-b34a970bc036": 10,
     "crenans___PC": 10,
-    "crenans": 10
+    "crenans": 10,
+    "caf68b99-9f05-44fa-bf42-d21744100ebc": 61,
+    "saison_1_de_one_piece___R": 61,
+    "saison_1_de_one_piece": 61,
+    "eee1a080-d98f-4bc8-b748-504d7c573507": 11,
+    "le_mariage_de_marie_de_bourgogne_avec_maximilien_d'autriche___C": 11,
+    "le_mariage_de_marie_de_bourgogne_avec_maximilien_d'autriche": 11
   }
 }
