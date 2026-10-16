@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-16T15:21:36.965Z",
+  "updated_at": "2026-10-16T15:21:38.870Z",
   "version": "2.0.0",
-  "total": 1197,
+  "total": 1200,
   "cotes": {
     "2db70262-618f-42e6-a27d-712d6b514a2e": 1321,
     "f06d82b0-1b99-4d71-8a3a-384958962e5d": 500,
@@ -1199,6 +1199,9 @@
     "santiago_segura": 10,
     "52a50729-9623-4248-abdc-01aa92a9d981": 45,
     "oscar_du_meilleur_acteur___UR": 45,
-    "oscar_du_meilleur_acteur": 45
+    "oscar_du_meilleur_acteur": 45,
+    "3e2811bb-fbe3-4e31-8069-79be04da41df": 10,
+    "741f5522-ae23-4025-8477-f31819be4aa3": 4,
+    "cf4c161a-ea60-4cd6-8b47-61140e681fe5": 5
   }
 }
