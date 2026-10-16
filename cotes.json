@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-16T15:26:25.016Z",
+  "updated_at": "2026-10-16T15:30:09.349Z",
   "version": "2.0.0",
-  "total": 1577,
+  "total": 1583,
   "cotes": {
     "2db70262-618f-42e6-a27d-712d6b514a2e": 1321,
     "f06d82b0-1b99-4d71-8a3a-384958962e5d": 500,
@@ -1579,6 +1579,12 @@
     "philippe_pinel": 13,
     "5d27e2be-ac0b-4991-aa6d-d6def0b1f580": 6,
     "marcel_duhamel___SR": 6,
-    "marcel_duhamel": 6
+    "marcel_duhamel": 6,
+    "19d3f2c8-b565-49cc-b474-7ec47f84d8f0": 1,
+    "l'âme-sœur_(série_télévisée)___C": 1,
+    "l'âme-sœur_(série_télévisée)": 1,
+    "a4abd2ab-759c-44b0-977e-b34a970bc036": 10,
+    "crenans___PC": 10,
+    "crenans": 10
   }
 }
