@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-16T17:57:46.173Z",
+  "updated_at": "2026-10-16T18:01:53.342Z",
   "version": "2.0.0",
-  "total": 1703,
+  "total": 1706,
   "cotes": {
     "2db70262-618f-42e6-a27d-712d6b514a2e": 1321,
     "f06d82b0-1b99-4d71-8a3a-384958962e5d": 500,
@@ -1705,6 +1705,9 @@
     "jean_lassalle": 478,
     "731c82cf-da4a-4e10-b6a3-970631552fb1": 2570,
     "double_pénétration___UR": 2570,
-    "double_pénétration": 2570
+    "double_pénétration": 2570,
+    "b8b58a64-ac63-45b4-9a38-69025843c9e9": 222,
+    "la_ronde_de_nuit___UR": 222,
+    "la_ronde_de_nuit": 222
   }
 }
