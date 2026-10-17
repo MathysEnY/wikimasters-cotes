@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-10-17T07:15:15.404Z",
+  "updated_at": "2026-10-17T09:41:09.041Z",
   "version": "2.0.0",
-  "total": 1706,
+  "total": 1727,
   "cotes": {
     "2db70262-618f-42e6-a27d-712d6b514a2e": 1321,
     "f06d82b0-1b99-4d71-8a3a-384958962e5d": 500,
@@ -1708,6 +1708,27 @@
     "double_pénétration": 2570,
     "b8b58a64-ac63-45b4-9a38-69025843c9e9": 222,
     "la_ronde_de_nuit___UR": 222,
-    "la_ronde_de_nuit": 222
+    "la_ronde_de_nuit": 222,
+    "d0c8881c-1be3-4438-8cdf-355eb469e85f": 8,
+    "il_était_une_fois_(groupe)___SR": 8,
+    "il_était_une_fois_(groupe)": 8,
+    "60b2cd44-5e2b-45a1-9b58-46c78907c1f7": 6,
+    "steve_kazee___SR": 6,
+    "steve_kazee": 6,
+    "25de003a-1907-4e94-87f8-f95b1bbec4e6": 11,
+    "coqueret_du_pérou___SR": 11,
+    "coqueret_du_pérou": 11,
+    "2125216e-56ed-47f4-94cd-8bc2501b36af": 4,
+    "alice_darfeuille___SR": 4,
+    "alice_darfeuille": 4,
+    "b032ccd3-d240-4c57-b14c-c1068bda438a": 18,
+    "mohamed_allaoua___SR": 18,
+    "mohamed_allaoua": 18,
+    "3205f179-921d-4d32-99b8-3272e15db8ac": 2,
+    "(18075)_donasharma___C": 2,
+    "(18075)_donasharma": 2,
+    "91867cab-b13c-4fa1-9a60-724d66364575": 26,
+    "arma_iii___R": 26,
+    "arma_iii": 26
   }
 }
