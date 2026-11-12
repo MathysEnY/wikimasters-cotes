@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-12T20:32:10.973Z",
+  "updated_at": "2026-11-12T20:32:25.286Z",
   "version": "2.0.0",
-  "total": 1940,
+  "total": 1964,
   "cotes": {
     "2db70262-618f-42e6-a27d-712d6b514a2e": 1321,
     "f06d82b0-1b99-4d71-8a3a-384958962e5d": 500,
@@ -1942,6 +1942,30 @@
     "victoria_du_royaume-uni_(1840-1901)": 17,
     "e3591faa-717b-49fe-8d7f-8bd0d04db22c": 69,
     "montbéliarde___SR": 69,
-    "montbéliarde": 69
+    "montbéliarde": 69,
+    "52bd294d-5b11-4f56-a607-b617ff94e7a9": 171,
+    "syndicalisme___SR": 171,
+    "syndicalisme": 171,
+    "d1d4eeb5-1441-4e80-ae4c-a64c5f062b0e": 39,
+    "nord___SR": 39,
+    "nord": 39,
+    "f508ecb2-df59-4f00-b80c-2b55693a38a6": 10,
+    "patsy_swayze___SR": 10,
+    "patsy_swayze": 10,
+    "e5380cf8-f646-46c7-9761-3cf9ac8a7fe6": 20,
+    "givenchy___SR": 20,
+    "givenchy": 20,
+    "7501efcc-fe59-458d-acd3-5f081eaf7aa6": 16,
+    "ligue_catholique_(france)___SR": 16,
+    "ligue_catholique_(france)": 16,
+    "0c1355ae-3747-4d6d-bc86-36c1f440dbeb": 16,
+    "cartel_des_gauches___SR": 16,
+    "cartel_des_gauches": 16,
+    "30d96fda-e8a1-4f11-b4de-d22e6baa2c84": 14,
+    "polynôme_de_tchebychev___SR": 14,
+    "polynôme_de_tchebychev": 14,
+    "4e8db598-c112-4af0-a01b-e281b03453d4": 76,
+    "abbaye_du_mont-saint-michel___SR": 76,
+    "abbaye_du_mont-saint-michel": 76
   }
 }
