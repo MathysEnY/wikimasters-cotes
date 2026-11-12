@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-12T20:38:11.122Z",
+  "updated_at": "2026-11-12T20:38:55.497Z",
   "version": "2.0.0",
-  "total": 2321,
+  "total": 2345,
   "cotes": {
     "2db70262-618f-42e6-a27d-712d6b514a2e": 1321,
     "f06d82b0-1b99-4d71-8a3a-384958962e5d": 500,
@@ -2323,6 +2323,30 @@
     "boulton_paul_p.111": 12,
     "fcd3c9bd-3b17-4fd4-9985-1db802924076": 11,
     "curtiss_a-12_shrike___C": 11,
-    "curtiss_a-12_shrike": 11
+    "curtiss_a-12_shrike": 11,
+    "b288c4e4-1649-4351-b6e9-065b5152183d": 49,
+    "macos___UR": 49,
+    "macos": 49,
+    "5c94e434-2b9f-4af2-a3f4-d9468b4287d2": 1823,
+    "marc_dutroux___UR": 1823,
+    "marc_dutroux": 1823,
+    "48f2ebff-0bff-46a4-8175-3d5993a6242f": 53,
+    "les_trois_frères___UR": 53,
+    "les_trois_frères": 53,
+    "5d74529a-ea30-4852-9d00-a04b0d747c44": 14,
+    "buddy_(film,_2026)___UR": 14,
+    "buddy_(film,_2026)": 14,
+    "a8440b88-db91-4476-85b3-e8411a97ec0e": 130,
+    "novah___UR": 130,
+    "novah": 130,
+    "6b3aa60e-5ac9-455d-b220-b9b761e54b06": 13,
+    "coyote_vs._acme___UR": 13,
+    "coyote_vs._acme": 13,
+    "b82a8cc3-0fe5-4ded-88ef-e1ca17cff03f": 84,
+    "casimir_(personnage)___UR": 84,
+    "casimir_(personnage)": 84,
+    "0e7e849b-3b79-4969-9e6a-2845924f3c7e": 887,
+    "xxxtentacion___UR": 887,
+    "xxxtentacion": 887
   }
 }
