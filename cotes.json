@@ -1,7 +1,7 @@
 {
-  "updated_at": "2026-11-12T20:37:38.985Z",
+  "updated_at": "2026-11-12T20:38:11.122Z",
   "version": "2.0.0",
-  "total": 2312,
+  "total": 2321,
   "cotes": {
     "2db70262-618f-42e6-a27d-712d6b514a2e": 1321,
     "f06d82b0-1b99-4d71-8a3a-384958962e5d": 500,
@@ -2314,6 +2314,15 @@
     "albatros_d.xi": 7,
     "9698d600-0270-4578-921e-5a0d04102455": 10,
     "altisurface___C": 10,
-    "altisurface": 10
+    "altisurface": 10,
+    "6f53c946-403b-4dee-8e1e-daa919237b6e": 9,
+    "fokker_d.xiii___C": 9,
+    "fokker_d.xiii": 9,
+    "c9b7f29b-b4d4-43e1-a4ac-eb9b6a7a0e3e": 12,
+    "boulton_paul_p.111___C": 12,
+    "boulton_paul_p.111": 12,
+    "fcd3c9bd-3b17-4fd4-9985-1db802924076": 11,
+    "curtiss_a-12_shrike___C": 11,
+    "curtiss_a-12_shrike": 11
   }
 }
